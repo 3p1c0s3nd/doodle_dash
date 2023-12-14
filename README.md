@@ -1,17 +1,14 @@
 # juego_en_flutter
 
-A new Flutter project.
+Juego en Flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # doodle_dash
+
+Este es un juego que funciona en todas las plataformas, esta programado en flutter usando la libreria flame para crear juegos. El curso para poder desarrollar esta app lo compartio la comunidad de codelabs donde explica como crearlo.
+
+https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker#0
+
+
+
+DEMO
+https://media.licdn.com/dms/image/sync/D4D27AQFkRJQUGuFI3Q/articleshare-shrink_800/0/1702550577090?e=1703163600&v=beta&t=pj2dcC0GKTVJwBnNUv98KIdDKVPJiA2A_0IrV55lu-c
